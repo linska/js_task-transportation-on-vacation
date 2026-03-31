@@ -5,6 +5,7 @@
  *
  * @return {number}
  */
+
 function calculateRentalCost(days) {
   const dailyCost = 40;
   const longTerm = 7;
